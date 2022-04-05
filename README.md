@@ -1,12 +1,17 @@
 <h1 align="center"> Manipulação de documentos em Python &amp; MongoDB </h1>
 
 <p align="center"> 
-<a href="#sobre"> Sobre o projeto </a> • <a href="#comoRodar"> Como rodar o projeto </a> • <a href="#resultados"> Resultados </a>
+<a href="#sobre"> Sobre o projeto </a> • <a href="#tecnologias"> Tecnologias utilizadas </a> • <a href="#comoRodar"> Como rodar o projeto </a> • <a href="#resultados"> Resultados </a>
 </p>
 
 ## <a id="sobre"> 🎲 Sobre o projeto </a>
 
 Atividade desenvolvida durante a aula de Banco de Dados Não Relacional da Fatec, que consiste na manipulação de documentos em um database criado em atividades anteriores.
+
+## <a id="tecnologias"> 🎲 Tecnologias utilizadas </a>
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## <a id="comoRodar"> 🎲 Como rodar o projeto </a>
 
