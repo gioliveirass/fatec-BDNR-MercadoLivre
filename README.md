@@ -22,7 +22,7 @@ Uma vez que os dados estiverem corretos, execute o arquivo `src/main.py`.
 ## <a id="resultados"> 🎲 Resultados </a>
 
 <details>
-    <summary><b>Collection: usuario</b></summary>
+    <summary><b>Collection: usuario (clique para expandir)</b></summary>
     <h3>🔸 Listagem de todos os usuários </h3>
     <p><img src = ".github\Resultados\Listagem de todos os usuários.PNG" alt = "Listagem de todos os usuários" width = 600 /></p>
     <h3>🔸 Inserção de um usuário</h3>
@@ -36,7 +36,7 @@ Uma vez que os dados estiverem corretos, execute o arquivo `src/main.py`.
 </details>
 
 <details>
-    <summary><b>Collection: vendedor</b></summary>
+    <summary><b>Collection: vendedor (clique para expandir)</b></summary>
     <h3>🔸 Listagem de todos os vendedores </h3>
     <p><img src = ".github\Resultados\Listagem de todos os vendedores.PNG" alt = "Listagem de todos os vendedores" width = 600 /></p>
     <h3>🔸 Inserção de um vendedor</h3>
@@ -50,7 +50,7 @@ Uma vez que os dados estiverem corretos, execute o arquivo `src/main.py`.
 </details>
 
 <details>
-    <summary><b>Collection: produto</b></summary>
+    <summary><b>Collection: produto (clique para expandir)</b></summary>
     <h3>🔸 Listagem de todos os produtos </h3>
     <p><img src = ".github\Resultados\Listagem de todos os produtos.PNG" alt = "Listagem de todos os produtos" width = 600 /></p>
     <h3>🔸 Inserção de um produto</h3>
@@ -64,7 +64,7 @@ Uma vez que os dados estiverem corretos, execute o arquivo `src/main.py`.
 </details>
 
 <details>
-    <summary><b>Collection: compra</b></summary>
+    <summary><b>Collection: compra (clique para expandir)</b></summary>
     <h3>🔸 Listagem de todas os compras </h3>
     <p><img src = ".github\Resultados\Listagem de todas as compras.PNG" alt = "Listagem de todas as compras" width = 600 /></p>
     <h3>🔸 Inserção de uma compra</h3>
